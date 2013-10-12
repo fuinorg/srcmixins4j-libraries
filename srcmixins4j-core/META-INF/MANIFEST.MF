@@ -22,5 +22,5 @@ Import-Package: org.eclipse.emf.common.notify,org.eclipse.emf.common.uti
  ge.java.generics,org.emftext.language.java.imports,org.emftext.language
  .java.members,org.emftext.language.java.modifiers,org.emftext.language.
  java.parameters,org.emftext.language.java.references,org.emftext.langua
- ge.java.types,org.fuin.srcmixins4j.annotations,org.slf4j;version="[1.7,
+ ge.java.types,org.fuin.srcmixins4j.annotations,org.slf4j;version="[1.6,
  2)"
