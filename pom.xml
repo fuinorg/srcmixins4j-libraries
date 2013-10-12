@@ -90,5 +90,21 @@
         </plugins>
 
     </build>
+
+	<reporting>
+
+		<plugins>	
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>2.10</version>
+                <configuration>
+                    <configLocation>/checkstyle.xml</configLocation>
+                    <headerLocation>/required-header.txt</headerLocation>
+                </configuration>
+            </plugin>
+	</plugins>
+	
+	</reporting>
     
 </project>
