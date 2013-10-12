@@ -7,7 +7,7 @@
 	<parent>
 		<groupId>org.fuin</groupId>
 		<artifactId>pom-osgi</artifactId>
-		<version>1.1.0-SNAPSHOT</version>
+		<version>1.1.0</version>
 	</parent>
 
     <groupId>org.fuin.srcmixins4j</groupId>
@@ -18,14 +18,14 @@
     <description>Source code based mixins for Java / Libraries Parent</description>
 
 	<scm>
-		<url>https://github.com/fuinorg/SrcMixins4J/</url>
-		<connection>scm:git:git://github.com/fuinorg/SrcMixins4J.git</connection>
-		<developerConnection>scm:git:git@github.com:fuinorg/SrcMixins4J.git</developerConnection>
+		<url>https://github.com/fuinorg/srcmixins4j-libraries/</url>
+		<connection>scm:git:git://github.com/fuinorg/srcmixins4j-libraries.git</connection>
+		<developerConnection>scm:git:git@github.com:fuinorg/srcmixins4j-libraries.git</developerConnection>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/fuinorg/SrcMixins4J/issues</url>
+		<url>https://github.com/fuinorg/srcmixins4j-libraries/issues</url>
 	</issueManagement>
 
     <properties>
